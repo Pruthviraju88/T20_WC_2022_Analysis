@@ -27,7 +27,7 @@ Created a Power BI Dashboard which helps to review and compare performances of a
  - Data Modelling : _Power BI (DAX measures)_ and Power BI is also used for building dashboard
 
 # Dashboard Images
- - This is an interactive dashboard, you can download it from my repo,
+ - This is an interactive dashboard, you can download it from my repo, T20_worldcup_works.pbix
 
    ![Screenshot 2023-07-08 192557](https://github.com/codev-8/T20_WC_2022_Analysis/assets/72451060/4afe8a53-517f-4941-be58-b93eabdd39e9)
 
