@@ -19,7 +19,7 @@ Created a Power BI Dashboard which helps to review and compare performances of a
   data analysis and dashboarding using DAX.
 
 - Dashboarding:
-  Craeted final dashboard using Power BI visuals.
+  Created final dashboard using Power BI visuals.
 
 # Tools Used 
  - Data Collection : Using _BrightData Website ( in which JavaScript is coded )_
