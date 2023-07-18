@@ -15,7 +15,7 @@ Created a Power BI Dashboard which helps to review and compare performances of a
   using Power Query of Power BI.
 
 - Data Modelling:
-  Connected all the datasets with based on some defined primary keys sucha s team and match ids. Also, created many measures, calculated columns and parameters for 
+  Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created many measures, calculated columns and parameters for 
   data analysis and dashboarding using DAX.
 
 - Dashboarding:
